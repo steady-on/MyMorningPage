@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "userId": "뾰로롱",
+      "title": "hihi",
+      "content": "test2입니다.ㅇㄹㅎㅇㄹㅎㅇㄹㅎㅇㄹㅎ"
+    },
+    {
+      "userId": "sdf",
+      "title": "sdfs",
+      "content": "dfsdf",
+      "id": 4
+    },
+    {
+      "userId": "ㄴㅇㄹ",
+      "title": "ㄴㅇㄹㄴㅇㄹ",
+      "content": "ㄴㅇㄹㄴㅇㄹㄴㅇㄹ",
+      "id": 6
+    },
+    {
+      "userId": "sdf",
+      "title": "sdfsdf",
+      "content": "sdfsdfsdf",
+      "id": 7
+    },
+    {
+      "userId": "twer",
+      "title": "werw",
+      "content": "erwerwerewr",
+      "id": 8
+    },
+    {
+      "userId": "sdf",
+      "title": "sdfsdfsdf",
+      "content": "sdfsdf",
+      "id": 9
+    },
+    {
+      "userId": "sdf",
+      "title": "sdfsdf",
+      "content": "sdfsdfsdf",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "postId": "2",
+      "userId": "ㄴㅇㄹ",
+      "content": "이제됐나수정",
+      "id": 4
+    },
+    {
+      "postId": "2",
+      "userId": "ㄴㅇㄹ",
+      "content": "왜 안돼지",
+      "id": 6
+    }
+  ]
+}
